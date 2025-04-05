@@ -1,4 +1,1 @@
-streamlit
-pandas
-numpy
-sqlite3  # usually built-in, but no harm listing
+
